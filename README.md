@@ -1,7 +1,7 @@
 # Unzip Bot
 > A star ⭐ from you means a lot to us! 
 
-<p align="center"><a href="https://www.github.com/MysteryBots/UnzipBot"><img src="https://telegra.ph/file/4dbd4680a4f794fce88ce.jpg" width="5000"></a></p>
+<p align="center"><a href="https://github.com/Dinukamalith/szUnzipBot"><img src="https://telegra.ph/file/398a0c725b37cfb157435.jpg" width="500"></a></p>
 
 
 Telegram bot to unzip files.
@@ -39,7 +39,7 @@ Telegram bot to unzip files.
 ## Usage
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MysteryBots/UnzipBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dinukamalith/szUnzipBot)
 
 1) Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`. Alternatively fill `OWNER_ID` and `OWNER_NAME`. 
 Note : Fill both or leave both unless bot won't work.
@@ -50,9 +50,9 @@ Note : Fill both or leave both unless bot won't work.
 ### Local Deploying
 1) Clone the repo
    ```markdown
-   git clone https://github.com/MysteryBots/UnzipBot
+   git clone https://github.com/Dinukamalith/szUnzipBot
    ```
-2) Edit `Config.py` and fill the needed variables by following [this](https://github.com/MysteryBots/UnzipBot/blob/master/Config.py#L11) 
+2) Edit `Config.py` and fill the needed variables by following [this](https://github.com/Dinukamalith/szUnzipBot/blob/dd41c3e37eb99f6109c2436a3c4922ffeafd0235/Config.py#L11) 
 
 3) Enter the directory
    ```markdown
@@ -65,12 +65,12 @@ Note : Fill both or leave both unless bot won't work.
 
 ## Environment Variables
 #### Mandatory Vars
-- `API_ID` - Get this from [my.telegram.org](https://my.telegram.org/auth) or [@TgOrgBot](https://t.me/TgOrgBot) 
-- `API_HASH` - Get this from [my.telegram.org](https://my.telegram.org/auth) or [@TgOrgBot](https://t.me/TgOrgBot) 
+- `API_ID` - Get this from [my.telegram.org](https://my.telegram.org/auth)
+- `API_HASH` - Get this from [my.telegram.org](https://my.telegram.org/auth)
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather) 
 #### Optional Vars 
 > (fill both or neither)
-- `OWNER_ID` - Get it from [@MissMiley_bot](https://t.me/MissMiley_bot) by sending /id to it.
+- `OWNER_ID` - Get it from [@szrosebot](https://t.me/szrosebot) by sending /id to it.
 - `OWNER_NAME` - Your Name (to be shown as owner in bot)
 
 
@@ -83,8 +83,9 @@ Note : Fill both or leave both unless bot won't work.
 1) Zipping feature maybe.
 
 ## Stats
-[![GitHub forks](https://img.shields.io/github/forks/MysteryBots/UnzipBot.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/MysteryBots/UnzipBot/network/) [![GitHub stars](https://img.shields.io/github/stars/MysteryBots/UnzipBot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/MysteryBots/UnzipBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/MysteryBots/UnzipBot.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/MysteryBots/UnzipBot/watchers/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MysteryBots/UnzipBot/graphs/commit-activity)
+[![GitHub forks](https://img.shields.io/github/forks/Dinukamalith/szUnzipBot.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Dinukamalith/szUnzipBot/network) [![GitHub stars](https://img.shields.io/github/stars/Dinukamalith/szUnzipBot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Dinukamalith/szUnzipBot/stargazers) 
+[![GitHub watchers](https://img.shields.io/github/watchers/Dinukamalith/szUnzipBot.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/Dinukamalith/szUnzipBot/watchers)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dinukamalith/szUnzipBot/graphs/commit-activity)
 
 
 
@@ -93,25 +94,24 @@ Note : Fill both or leave both unless bot won't work.
 
 
 ## Contributing
-[![GitHub contributors](https://img.shields.io/github/contributors/MysteryBots/UnzipBot.svg)](https://github.com/MysteryBots/UnzipBot/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Dinukamalith/szUnzipBot.svg)](https://github.com/Dinukamalith/szUnzipBot/graphs/contributors)
 > Contributions are heartily accepted. 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Credits
 - [Dan Tès](https://github.com/delivrance) for his [Pyrogram](https://docs.pyrogram.org) Library
 
 ## Support
-Channel :- [@MysteryBots](https://t.me/MysteryBots)
+Channel :- [@szbots](https://t.me/szbots)
 
-Group Chat :- [@MysteryBotsChat](https://t.me/MysteryBotsChat)
+Group Chat :- [@tgbotschatzone](https://t.me/tgbotschatzone)
 
 ## :) 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/MysteryBots) 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Dinukamalith) 
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/MysteryBots)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/Dinukamalith)
 
 
