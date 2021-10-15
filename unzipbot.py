@@ -25,4 +25,4 @@ if __name__ == "__main__":
 	print(f"@{uname} Started Successfully!")
 	idle()
 	app.stop()
-	print("Bot stopped. Alvida!")
+	print("Bot stopped. Unzip bot!")
