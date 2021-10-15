@@ -9,8 +9,8 @@
     "pyrogram"
   ],
   "repository": "https://github.com/Dinukamalith/szUnzipBot",
-  "website": "http://szbots.ml/",
-  "success_url": "www.mysteryxd.ml",
+  "website": "http://szbots.ml",
+  "success_url": "http://szbots.ml",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org "
