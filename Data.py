@@ -19,10 +19,10 @@ class Data:
             print("Quitting the bot")
             raise SystemExit
     else:
-        START += f"\n\nBy @szbots ♥"
+        START += f"\n\nBy @szteambots ♥"
 
     # About Message
-    ABOUT = "**About This Bot** \n\nThis is an open source Unzip bot by @szbots  \n\nSource : [Click Here](https://github.com/Dinukamalith/szUnzipBot) \n\nFramework : [Pyrogram](docs.pyrogram.org) \n\nLanguage : [Python](www.python.org) \n\nDeveloper : [szbot community](https://t.me/szbots)"
+    ABOUT = "**About This Bot** \n\nThis is an open source Unzip bot by @szteambots  \n\nSource : [Click Here](https://github.com/Dinukamalith/szUnzipBot) \n\nFramework : [Pyrogram](docs.pyrogram.org) \n\nLanguage : [Python](www.python.org) \n\nDeveloper : [szbot community](https://t.me/szteambots)"
 
     if Config.OWNER_ID != 0:
         if Config.OWNER_NAME:
@@ -58,7 +58,7 @@ I'll unzip/unrar it and return you it's contents.
 /help - This Message.
 /start - Check if bot is alive.
 
-**Support** - @szbots
+**Support** - @szteambots
 """
     
     MODES = """
@@ -108,6 +108,6 @@ This is bit fast but only recommended for larger files as smaller files won't ha
         ],
         [InlineKeyboardButton("How to Use me ⁉️", callback_data="help")],
         [InlineKeyboardButton("Create your own bot", callback_data="deploy")],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/szbots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/szbots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/szteambots")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/szteambots")],
     ]
