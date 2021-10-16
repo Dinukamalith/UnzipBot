@@ -102,9 +102,9 @@ Note : Fill both or leave both unless bot won't work.
 - [Dan Tès](https://github.com/delivrance) for his [Pyrogram](https://docs.pyrogram.org) Library
 
 ## Support
-Channel :- [@szbots](https://t.me/szbots)
+Channel :- [@szteambots](https://t.me/szteambots)
 
-Group Chat :- [@tgbotschatzone](https://t.me/tgbotschatzone)
+Group Chat :- [@slbotzone](https://t.me/slbotzone)
 
 ## :) 
 
